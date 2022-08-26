@@ -1,0 +1,37 @@
+.fundo{
+    background-color: #C0C0C0	;
+}
+
+.janelatexto{
+    padding-left: 10%;
+    padding-right:10%;
+    padding-bottom: 20%;
+    padding-top: 2%;
+}
+
+.textohome{
+	margin-left: 20px;
+	margin-right: 20px;
+	text-indent: 25px;
+	font-size: 25px;
+	font-family: arial;
+    color: #000000;
+	text-align: justify;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #000;
+    border-radius: 18px;
+      
+}
+
+.paragrafo{
+    padding-left: 5%;
+    padding-right:5%;
+}
+
+.titulo{
+    border-radius: 10px;
+    color: azure;
+    font-size: 55px;
+    background-color: #1C1C1C;
+    align-content: center;
+}

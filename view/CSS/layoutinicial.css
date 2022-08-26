@@ -1,0 +1,23 @@
+.fundo {
+	background-color:#C0C0C0;
+}
+
+.janelainicial{
+	padding-left: 15%;
+    padding-right: 15%;
+    
+}
+
+.texto{
+    padding-right: 2%;
+    padding-left: 2%;
+}
+
+.textoinicial{	
+	text-indent: 25px;
+	font-size: 25px;
+	font-family: arial;
+    color: #000000;
+    text-align: justify;
+    background-color: white;
+}

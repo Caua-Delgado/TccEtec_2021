@@ -1,0 +1,98 @@
+.img{	
+    
+	display: run-in;
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+	max-width: 100%;
+  height: auto;
+	border-width: 1px;
+	border-color: #000000;
+	border-style: outset;
+}
+
+.textoatencao{
+
+  text-align: left; 
+	font-family: arial;
+	font-size: 15px;
+	font-weight: bold;
+  color: #ff0000;
+
+}
+
+.texto {
+
+  text-align: left; 
+	font-family: arial;
+	font-size: 25px;
+	font-weight: bold;
+
+}
+
+.titulo {
+
+  text-align: center; 
+	font-family: arial;
+	font-size: 50px;
+	font-weight: bold;
+  color: #000000;
+}
+/* 
+.container02 {
+  position: relative;
+  border-radius: 5px;
+  background-color: #808080;
+   padding: 100px 0 110px 0; 
+  height: 900px;
+  width: auto;
+}
+
+.container {
+  position: relative;
+  border-radius: 5px;
+  background-color: #808080;
+   padding: 100px 0 110px 0; 
+  height: 600px;
+  width: auto;
+}   */
+
+.botao {
+  width: 100%;
+  padding: 12px;
+  border: none;
+  border-radius: 8000px;
+  margin: 5px 0;
+  opacity: 0.85;
+  display: inline-block;
+  font-size: 18px;
+  line-height: 20px;
+  text-decoration: none; /* remove underline from anchors */
+  background-color: #ffffff;
+}
+
+.col {
+  float: center;
+  height: 50%;
+  margin: auto;
+  padding: 0 60px;
+  margin-top: 6px;
+  margin-left: 26%;
+  margin-right: 26%;
+}
+
+/* bottom container
+.bottom-container {
+  text-align: center;
+  background-color: #666;
+  border-radius: 0px 0px 4px 4px;
+} */
+
+/* Responsive layout - when the screen is less than 650px wide, make the two columns stack on top of each other instead of next to each other */
+/* @media screen and (max-width: 650px) {
+  .col {
+    width: 50%;
+    margin-top: 0;
+  }
+  
+} */
